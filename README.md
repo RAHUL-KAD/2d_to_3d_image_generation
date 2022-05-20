@@ -10,3 +10,8 @@ This repo is a minimum implementation of research paper [NeRF: Representing Scen
 
 ## 1. After 20 epochs
 ![training](https://user-images.githubusercontent.com/63397654/169548604-1f9b3226-7637-405b-b0b2-34fc451c2fa3.gif)
+
+
+# Referance
+1. [NeRF paper](https://arxiv.org/abs/2003.08934)
+2. [Keras tutorial](https://keras.io/examples/vision/nerf/#3d-volumetric-rendering-with-nerf)
