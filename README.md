@@ -9,7 +9,8 @@ This repo is a minimum implementation of research paper [NeRF: Representing Scen
 
 
 ## 1. After 20 epochs
-![training](https://user-images.githubusercontent.com/63397654/169548604-1f9b3226-7637-405b-b0b2-34fc451c2fa3.gif)
+![training](https://user-images.githubusercontent.com/63397654/169553522-fdfaf97d-dfdc-4eb6-a207-967063270ef2.gif)
+
 
 
 # Referance
